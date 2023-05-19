@@ -1,0 +1,7 @@
+C:\Users\v-pkothaveer\source\repos\WebApplication15\obj\Release\net6.0\PubTmp\Out\WebApplication15.exe
+C:\Users\v-pkothaveer\source\repos\WebApplication15\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-pkothaveer\source\repos\WebApplication15\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\v-pkothaveer\source\repos\WebApplication15\obj\Release\net6.0\PubTmp\Out\WebApplication15.dll
+C:\Users\v-pkothaveer\source\repos\WebApplication15\obj\Release\net6.0\PubTmp\Out\WebApplication15.deps.json
+C:\Users\v-pkothaveer\source\repos\WebApplication15\obj\Release\net6.0\PubTmp\Out\WebApplication15.runtimeconfig.json
+C:\Users\v-pkothaveer\source\repos\WebApplication15\obj\Release\net6.0\PubTmp\Out\WebApplication15.pdb
